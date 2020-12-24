@@ -8,7 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Hosting;
-namespace quickstart
+
+namespace QuickStart
 {
     public class Startup
     {
@@ -40,8 +41,7 @@ namespace quickstart
 
             app.UseAuthorization();
 
-            app.UseHealthChecks("/health",
-                                new HealthCheckOptions { ResponseWriter = JsonResponseWriter });
+            app.UseHealthChecks("/health", new HealthCheckOptions { ResponseWriter = JsonResponseWriter });
 
             app.UseEndpoints(endpoints =>
             {
