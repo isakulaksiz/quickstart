@@ -10,11 +10,11 @@ C:\Users\User\Desktop\quickstart\bin\Debug\netcoreapp3.1\quickstart.pdb
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.csprojAssemblyReference.cache
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.AssemblyInfo.cs
-C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.RazorTargetAssemblyInfo.cache
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\staticwebassets\quickstart.StaticWebAssets.Manifest.cache
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\staticwebassets\quickstart.StaticWebAssets.xml
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.dll
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.pdb
 C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.genruntimeconfig.cache
+C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\quickstart\obj\Debug\netcoreapp3.1\quickstart.MvcApplicationPartsAssemblyInfo.cache
