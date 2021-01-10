@@ -38,25 +38,27 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Testing": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.0, )"
             },
-            "Microsoft.NET.Test.Sdk": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[3.1.5, )"
             },
-            "coverlet.collector": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[3.1.5, )"
             },
-            "xunit": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[3.1.5, )"
             },
-            "xunit.runner.visualstudio": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[3.1.3, )"
             }
           },
           "imports": [
