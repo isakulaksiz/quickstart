@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using quickstart.Controllers.DTOs;
 using quickstart.Models;
 
 namespace quickstart.Controllers
@@ -12,9 +9,9 @@ namespace quickstart.Controllers
     public class StudentsController : ControllerBase
     {
         [HttpGet("{id}")]
-        public Student Get(int id)
+        public StudentDTO Get(int id)
         {
-            return new Student
+            return ToDTO(new Student
             {
                 Id = id,
                 Name = "isa kulaksız",
@@ -35,6 +32,17 @@ namespace quickstart.Controllers
                         }
                     }
                 }
+            });
+        }
+        private static StudentDTO ToDTO(Student student)
+        {
+            return new StudentDTO
+            {
+                Id = student.Id,
+                Name = student.Name,
+                ClassId = student.Class.Id,
+                TeacherId = student.Class.Teacher.Id,
+                SchoolId = student.Class.Teacher.School.Id
             };
         }
     }
