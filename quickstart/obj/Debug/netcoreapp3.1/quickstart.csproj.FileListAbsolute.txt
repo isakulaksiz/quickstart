@@ -1,8 +1,6 @@
 C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.csprojAssemblyReference.cache
 C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.AssemblyInfo.cs
-C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -13,8 +11,6 @@ C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\quickstart.r
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\quickstart.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\quickstart.pdb
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -32,9 +28,6 @@ C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.En
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
@@ -147,3 +140,6 @@ C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\staticwebass
 C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.dll
 C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.pdb
 C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.genruntimeconfig.cache
+C:\Users\User\Desktop\quickstart\quickstart\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\quickstart\quickstart\obj\Debug\netcoreapp3.1\quickstart.MvcApplicationPartsAssemblyInfo.cache

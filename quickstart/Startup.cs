@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using quickstart.Models;
 
 namespace quickstart
 {
@@ -28,6 +30,9 @@ namespace quickstart
                 options.JsonSerializerOptions.WriteIndented = true;
             });
             services.AddHealthChecks();
+            services.AddDbContext<RosterDbContext>(builder =>
+                builder.UseInMemoryDatabase("Roster"),
+                ServiceLifetime.Singleton);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
